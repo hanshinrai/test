@@ -1,1 +1,2 @@
 001	we444.txt create
+002	--no-ff git merge
